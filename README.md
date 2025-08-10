@@ -1,6 +1,7 @@
 # Beanology Coffee - Artisan Coffee Website
 
-![Beanology Hero Image](https://images.unsplash.com/photo-1445116572660-236099ec97a0?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&h=630&q=80)
+<img width="1339" height="650" alt="project seven" src="https://github.com/user-attachments/assets/1f9869b2-94b2-4fb9-b7ab-93fecb527f1e" />
+
 
 A warm, inviting website for Beanology artisan coffee featuring signature drinks and coffee shop information.
 
